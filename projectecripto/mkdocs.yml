@@ -1,0 +1,7 @@
+site_name: My Docs
+
+nav:
+    - Introduction: 'index.md'
+    - 'about.md'
+    - Criptomonedes: 'bitcoin.md'
+    - 'Issue Tracker': 'https://example.com/'
