@@ -1,7 +1,9 @@
-site_name: My Docs
+site_name: Criptomonedes
 
 nav:
-    - Introduction: 'index.md'
-    - 'about.md'
-    - Criptomonedes: 'bitcoin.md'
+    - Criptomonedes: 
+      - 'bitcoin.md'
+      - 'ethereum.md'
+      - 'stellar.md'
+    
     - 'Issue Tracker': 'https://example.com/'
