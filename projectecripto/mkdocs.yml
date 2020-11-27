@@ -1,9 +1,13 @@
-site_name: Criptomonedes
+site_name: BLOCKCHAIN
+
 
 nav:
+    - Home: 'index.md'
+    - About: 'about.md'
     - Criptomonedes: 
-      - 'bitcoin.md'
-      - 'ethereum.md'
-      - 'stellar.md'
+          - 'bitcoin.md'
+          - 'ethereum.md'
+          - 'stellar.md'
+          
     
     - 'Issue Tracker': 'https://example.com/'
